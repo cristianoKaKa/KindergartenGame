@@ -64,6 +64,7 @@
     {"id":{"name":"obj_black_drop3","path":"objects/obj_black_drop3/obj_black_drop3.yy",},},
     {"id":{"name":"obj_black_drop4","path":"objects/obj_black_drop4/obj_black_drop4.yy",},},
     {"id":{"name":"obj_button_colorful_oil","path":"objects/obj_button_colorful_oil/obj_button_colorful_oil.yy",},},
+    {"id":{"name":"obj_button_xiaoban","path":"objects/obj_button_xiaoban/obj_button_xiaoban.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_worker_cloth","path":"objects/obj_button_worker_cloth/obj_button_worker_cloth.yy",},},
     {"id":{"name":"obj_green_bucket","path":"objects/obj_green_bucket/obj_green_bucket.yy",},},
@@ -100,6 +101,7 @@
     {"id":{"name":"rm_game_colorful_oil","path":"rooms/rm_game_colorful_oil/rm_game_colorful_oil.yy",},},
     {"id":{"name":"rm_game_worker_clothe","path":"rooms/rm_game_worker_clothe/rm_game_worker_clothe.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"rm_xiaoban","path":"rooms/rm_xiaoban/rm_xiaoban.yy",},},
     {"id":{"name":"snd_bg","path":"sounds/snd_bg/snd_bg.yy",},},
     {"id":{"name":"snd_pop","path":"sounds/snd_pop/snd_pop.yy",},},
     {"id":{"name":"spr_back","path":"sprites/spr_back/spr_back.yy",},},
@@ -144,6 +146,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_game_worker_clothe","path":"rooms/rm_game_worker_clothe/rm_game_worker_clothe.yy",},},
     {"roomId":{"name":"rm_game_colorful_oil","path":"rooms/rm_game_colorful_oil/rm_game_colorful_oil.yy",},},
+    {"roomId":{"name":"rm_xiaoban","path":"rooms/rm_xiaoban/rm_xiaoban.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
