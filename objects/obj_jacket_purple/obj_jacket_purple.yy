@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_jacket_purple2",
-    "path":"sprites/spr_jacket_purple2/spr_jacket_purple2.yy",
+    "name":"spr_jacket_purple",
+    "path":"sprites/spr_jacket_purple/spr_jacket_purple.yy",
   },
   "spriteMaskId":{
     "name":"spr_jacket_red",

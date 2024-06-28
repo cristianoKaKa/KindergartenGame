@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_pants_blue",
   "bboxMode":0,
-  "bbox_bottom":48,
-  "bbox_left":0,
-  "bbox_right":98,
+  "bbox_bottom":49,
+  "bbox_left":1,
+  "bbox_right":99,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"72099c06-e31d-459e-8249-ca913b4875c0","name":"72099c06-e31d-459e-8249-ca913b4875c0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e6b223f5-e55e-467a-9efa-432aaec36bf4","name":"e6b223f5-e55e-467a-9efa-432aaec36bf4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":50,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a258e2ca-326e-444a-8023-1adfcc338bd2","blendMode":0,"displayName":"default","isLocked":false,"name":"a258e2ca-326e-444a-8023-1adfcc338bd2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"030bf5b3-a9af-410e-a8bb-9436d437d2f0","blendMode":0,"displayName":"default","isLocked":false,"name":"030bf5b3-a9af-410e-a8bb-9436d437d2f0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_pants_blue",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"72099c06-e31d-459e-8249-ca913b4875c0","path":"sprites/spr_pants_blue/spr_pants_blue.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"04b6cad0-e336-479b-952b-c7a409e65c28","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e6b223f5-e55e-467a-9efa-432aaec36bf4","path":"sprites/spr_pants_blue/spr_pants_blue.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"694b14bb-6b24-40c0-9b55-87ce8037ff40","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

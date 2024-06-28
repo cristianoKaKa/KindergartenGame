@@ -2,8 +2,8 @@
   "$GMSprite":"",
   "%Name":"spr_pants_red",
   "bboxMode":0,
-  "bbox_bottom":49,
-  "bbox_left":0,
+  "bbox_bottom":50,
+  "bbox_left":1,
   "bbox_right":99,
   "bbox_top":0,
   "collisionKind":1,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2f78010c-4c5b-4139-9468-9b60aeb0591a","name":"2f78010c-4c5b-4139-9468-9b60aeb0591a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"aa14ae86-a5a7-4d8a-9c6f-e846e1e64d90","name":"aa14ae86-a5a7-4d8a-9c6f-e846e1e64d90","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":52,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fa8c744f-4945-4bbd-b9bb-3780d595cde9","blendMode":0,"displayName":"default","isLocked":false,"name":"fa8c744f-4945-4bbd-b9bb-3780d595cde9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"064346b7-3534-40c2-bc7f-1d204c6022ab","blendMode":0,"displayName":"default","isLocked":false,"name":"064346b7-3534-40c2-bc7f-1d204c6022ab","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_pants_red",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f78010c-4c5b-4139-9468-9b60aeb0591a","path":"sprites/spr_pants_red/spr_pants_red.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"65056be4-44bf-4625-b060-5fa0dbe93966","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa14ae86-a5a7-4d8a-9c6f-e846e1e64d90","path":"sprites/spr_pants_red/spr_pants_red.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5b669145-44cb-456a-9adb-e0a8ed333411","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

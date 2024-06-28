@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":124,
   "bbox_left":0,
-  "bbox_right":197,
+  "bbox_right":199,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b96262a9-58d3-446d-9855-fcfea4fbd106","name":"b96262a9-58d3-446d-9855-fcfea4fbd106","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4f86b99a-95c9-444c-90a3-a66b7f31de06","name":"4f86b99a-95c9-444c-90a3-a66b7f31de06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":125,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f267e6e8-181b-4ed0-9ae8-f929cae1dac6","blendMode":0,"displayName":"default","isLocked":false,"name":"f267e6e8-181b-4ed0-9ae8-f929cae1dac6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"12cf7075-0848-496b-9c6f-3c0fe297c94c","blendMode":0,"displayName":"default","isLocked":false,"name":"12cf7075-0848-496b-9c6f-3c0fe297c94c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_jacket_blue",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b96262a9-58d3-446d-9855-fcfea4fbd106","path":"sprites/spr_jacket_blue/spr_jacket_blue.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5b2e1f64-ea10-42c5-a0b6-65c9da3d66ae","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f86b99a-95c9-444c-90a3-a66b7f31de06","path":"sprites/spr_jacket_blue/spr_jacket_blue.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d206fb2c-e612-4f78-94ca-51748b222b3f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
