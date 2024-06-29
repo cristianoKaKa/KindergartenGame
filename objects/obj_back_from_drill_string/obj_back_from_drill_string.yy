@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_back_from_worker",
+  "%Name":"obj_back_from_drill_string",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_back_from_worker",
+  "name":"obj_back_from_drill_string",
   "overriddenProperties":[],
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Objects/icons/xiaoban.yy",
+    "name":"daban",
+    "path":"folders/Objects/icons/daban.yy",
   },
   "parentObjectId":null,
   "persistent":false,

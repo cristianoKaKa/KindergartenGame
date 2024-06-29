@@ -10,8 +10,8 @@
   "name":"obj_back_from_oil",
   "overriddenProperties":[],
   "parent":{
-    "name":"icons",
-    "path":"folders/Objects/icons.yy",
+    "name":"xiaoban",
+    "path":"folders/Objects/icons/xiaoban.yy",
   },
   "parentObjectId":null,
   "persistent":false,
