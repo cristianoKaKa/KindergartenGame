@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_colorful_oil",
+  "%Name":"obj_button_drill_string",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_colorful_oil",
+  "name":"obj_button_drill_string",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Oil",},
   ],
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Objects/buttons/xiaoban.yy",
+    "name":"daban",
+    "path":"folders/Objects/buttons/daban.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",
