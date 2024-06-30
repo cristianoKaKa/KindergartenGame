@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"colorful_oil",
-    "path":"folders/Sprites/colorful_oil.yy",
+    "path":"folders/Sprites/xiaoban/colorful_oil.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"clothes",
-    "path":"folders/Sprites/worker_cloth/clothes.yy",
+    "path":"folders/Sprites/xiaoban/worker_cloth/clothes.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

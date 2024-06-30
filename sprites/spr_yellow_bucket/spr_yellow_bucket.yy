@@ -26,7 +26,7 @@
   "origin":6,
   "parent":{
     "name":"spr_bucket",
-    "path":"folders/Sprites/colorful_oil/spr_bucket.yy",
+    "path":"folders/Sprites/xiaoban/colorful_oil/spr_bucket.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

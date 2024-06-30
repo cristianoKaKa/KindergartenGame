@@ -26,7 +26,7 @@
   "origin":6,
   "parent":{
     "name":"spr_green_drops",
-    "path":"folders/Sprites/colorful_oil/spr_green_drops.yy",
+    "path":"folders/Sprites/xiaoban/colorful_oil/spr_green_drops.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
