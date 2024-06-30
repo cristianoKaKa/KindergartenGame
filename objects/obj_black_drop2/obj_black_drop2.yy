@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_black_drop",
-    "path":"folders/Objects/colorful_oil/obj_black_drop.yy",
+    "path":"folders/Objects/xiaoban/colorful_oil/obj_black_drop.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil",

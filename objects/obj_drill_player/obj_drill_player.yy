@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_black_drop1",
+  "%Name":"obj_drill_player",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_black_drop1",
+  "name":"obj_drill_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_black_drop",
-    "path":"folders/Objects/xiaoban/colorful_oil/obj_black_drop.yy",
+    "name":"drill_string",
+    "path":"folders/Objects/daban/drill_string.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent_oil",
-    "path":"objects/obj_parent_oil/obj_parent_oil.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_black_drop1",
-    "path":"sprites/spr_black_drop1/spr_black_drop1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"clothes",
-    "path":"folders/Objects/worker_cloth/clothes.yy",
+    "path":"folders/Objects/xiaoban/worker_cloth/clothes.yy",
   },
   "parentObjectId":{
     "name":"obj_parent",
