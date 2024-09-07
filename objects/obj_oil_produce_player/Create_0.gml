@@ -17,4 +17,5 @@ worker_1 = ["0","0","0"]
 worker_2 = ["0","0","0"]
 worker_3 = ["0","0","0"]
 */
-
+show_debug_message("obj oilproduce_player created!");
+audio_play_sound(snd_bg,0,true);

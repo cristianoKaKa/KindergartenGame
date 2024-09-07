@@ -1,5 +1,7 @@
 /// @description 在此处插入描述 
 // 你可以在此编辑器中写入代码 
+show_debug_message("obj woker_player created!");
+audio_play_sound(snd_bg,0,true);
 
 hat_wear = [false, false, false]
 jacket_wear = [false, false, false]

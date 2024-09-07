@@ -48,6 +48,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fnt_cn","order":1,"path":"fonts/fnt_cn/fnt_cn.yy",},
     {"name":"obj_back_from_first_man","order":1,"path":"objects/obj_back_from_first_man/obj_back_from_first_man.yy",},
     {"name":"obj_back_from_oil_produce","order":2,"path":"objects/obj_back_from_oil_produce/obj_back_from_oil_produce.yy",},
     {"name":"obj_back_from_worker","order":1,"path":"objects/obj_back_from_worker/obj_back_from_worker.yy",},

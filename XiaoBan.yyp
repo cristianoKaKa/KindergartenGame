@@ -71,6 +71,7 @@
   "name":"XiaoBan",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"fnt_cn","path":"fonts/fnt_cn/fnt_cn.yy",},},
     {"id":{"name":"obj_back_from_drill_string","path":"objects/obj_back_from_drill_string/obj_back_from_drill_string.yy",},},
     {"id":{"name":"obj_back_from_first_man","path":"objects/obj_back_from_first_man/obj_back_from_first_man.yy",},},
     {"id":{"name":"obj_back_from_oil_produce","path":"objects/obj_back_from_oil_produce/obj_back_from_oil_produce.yy",},},
