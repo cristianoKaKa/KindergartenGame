@@ -5,3 +5,6 @@ grab = false;
 depth = 0;
 audio_play_sound(snd_pop,0,false);
 
+obj_drill_player.drag_num-=1;
+//show_debug_message(obj_drill_player.drag_num);
+
