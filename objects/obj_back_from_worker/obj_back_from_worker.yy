@@ -10,8 +10,8 @@
   "name":"obj_back_from_worker",
   "overriddenProperties":[],
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Objects/icons/xiaoban.yy",
+    "name":"xiaoban_chapter1",
+    "path":"folders/Objects/icons/xiaoban_chapter1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

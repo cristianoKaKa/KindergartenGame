@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_yellow_drop",
-    "path":"folders/Objects/xiaoban/colorful_oil/obj_yellow_drop.yy",
+    "path":"folders/Objects/xiaoban_chapter1/colorful_oil/obj_yellow_drop.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil",

@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"colorful_oil",
-    "path":"folders/Objects/xiaoban/colorful_oil.yy",
+    "path":"folders/Objects/xiaoban_chapter1/colorful_oil.yy",
   },
   "parentObjectId":null,
   "persistent":false,
