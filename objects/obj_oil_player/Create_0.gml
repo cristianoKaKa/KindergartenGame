@@ -1,7 +1,10 @@
 /// @description 在此处插入描述 
 // 你可以在此编辑器中写入代码 
 show_debug_message("obj oil_player created!");
-audio_play_sound(snd_bg,0,true);
+//audio_play_sound(snd_bg,0,true);
+
+global.in_box_cnt = 0
+_succeed = false;
 
 global.black_array = ["0","0","0","0","0"];			//1
 global.green_array = ["0","0","0","0","0"];			//2
@@ -34,3 +37,9 @@ global.pos_black = [32,544];
 global.pos_green = [544,544];
 global.pos_yellow = [32,896];
 global.pos_white = [544,896];
+
+
+black_drops = [obj_black_drop1, obj_black_drop2, obj_black_drop3, obj_black_drop4]
+green_drops = [obj_green_drop1, obj_green_drop2, obj_green_drop3, obj_green_drop4]
+white_drops = [obj_white_drop1, obj_white_drop2, obj_white_drop3, obj_white_drop4]
+yellow_drops = [obj_yellow_drop1, obj_yellow_drop2, obj_yellow_drop3, obj_yellow_drop4]

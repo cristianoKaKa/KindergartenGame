@@ -12,3 +12,5 @@ xx = x - mouse_x;
 yy = y - mouse_y;
 
 //show_debug_message(obj_drill_player.drag_num);
+
+show_debug_message("click!");

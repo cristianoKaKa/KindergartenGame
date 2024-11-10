@@ -72,6 +72,10 @@ if(_in_box){	//入盒
 		show_debug_message("Black In box!");
 		x = _pos_x;
 		y = _pos_y;
+		if(origin_box_id==0){	//之前不在盒子中
+			global.in_box_cnt +=1;
+			show_debug_message("In box count plus 1, now is: {0}", global.in_box_cnt);
+		}
 		if(origin_box_id!=0 and origin_box_id!=_new_box_id){
 			_origin_array[0] = "0";
 		}
@@ -95,10 +99,13 @@ if(_in_box){	//入盒
 	x = _pos_x;
 	y = _pos_y;
 	//_array[0] = "0";
+
 	if(origin_box_id!=0){		//之前在某个盒子中
 		_origin_array[0] = "0";
 		origin_box_id=0;
 		//show_debug_message("origin:");
 		//show_debug_message(_origin_array);
+		global.in_box_cnt -=1;
+		show_debug_message("In box count minus 1, now is: {0}", global.in_box_cnt);
 	}
 }

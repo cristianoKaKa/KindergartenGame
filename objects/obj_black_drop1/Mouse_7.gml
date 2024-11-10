@@ -68,7 +68,7 @@ else if(x>=_wl and x<=_wr and y>=_wt and y<=_wb){
 	_new_box_id = 0;
 }
 
-if(origin_box_id == _new_box_id){
+if(origin_box_id == _new_box_id){	//移动到原有box，没有变化
 	x = origin_x;
 	y = origin_y;
 	return;
@@ -78,16 +78,21 @@ if(_in_box){	//入盒
 	while(_i<global.arr_len and _array[_i]!="0"){
 		_i+=1;
 	}
-	if(_i<global.arr_len){	//盒中存在空位
+	if(_i<global.arr_len){	//盒中存在空位,成功入盒
 		show_debug_message("Black drop 1 In box!");
+		if(origin_box_id==0){	//之前不在盒子中
+			global.in_box_cnt +=1;
+			show_debug_message("In box count plus 1, now is: {0}", global.in_box_cnt);
+		}
 		x = _pos_x+_i*80;
 		y = _pos_y;
-		if(origin_box_id!=0 and origin_box_id!=_new_box_id){
+		if(origin_box_id!=0 and origin_box_id!=_new_box_id){	//之前在非本盒子的某个盒子中
 			_origin_array[pos_idx] = "0";
 		}
 		pos_idx = _i;
 		_array[pos_idx] = "black_drop1";
 		origin_box_id = _new_box_id;
+		show_debug_message("drop 1 x={0}, y={1}", x,y);
 	}else{		//盒中没有空位，需要返回初始位置
 		show_debug_message("Black drop 1 No free space!");
 		x = _initial_x;
@@ -113,6 +118,8 @@ if(_in_box){	//入盒
 		pos_idx=0;
 		//show_debug_message("origin:");
 		//show_debug_message(_origin_array);
+		global.in_box_cnt -=1;
+		show_debug_message("In box count minus 1, now is: {0}", global.in_box_cnt);
 	}
 }
 origin_x = x;
