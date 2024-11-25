@@ -43,8 +43,8 @@
   ],
   "name":"rm_game_worker_clothe",
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Rooms/xiaoban.yy",
+    "name":"xiaoban_chapter1",
+    "path":"folders/Rooms/xiaoban_chapter1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

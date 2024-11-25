@@ -1,6 +1,5 @@
 /// @description 在此处插入描述 
 // 你可以在此编辑器中写入代码 
-// 在 Create 事件中
 current_step = 0;
 steps = [spr_co_pm_1, spr_co_pm_2, spr_co_pm_3]; // 存储步骤对应的图片
 sounds = [snd_co_snd_1, snd_co_snd_2, snd_co_snd_3];	//存储步骤对应声音
