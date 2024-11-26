@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"rm_game_colorful_oil",
   "creationCodeFile":"rooms/rm_game_colorful_oil/RoomCreationCode.gml",
   "inheritCode":false,
