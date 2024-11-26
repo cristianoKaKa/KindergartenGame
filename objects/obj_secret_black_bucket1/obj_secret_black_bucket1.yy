@@ -6,12 +6,12 @@
   "name":"obj_secret_black_bucket1",
   "overriddenProperties":[],
   "parent":{
-    "name":"secret_bucket",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket.yy",
+    "name":"obj_black_buckets_secret",
+    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_black_buckets_secret.yy",
   },
   "parentObjectId":{
-    "name":"obj_parent_secet_bucket",
-    "path":"objects/obj_parent_secet_bucket/obj_parent_secet_bucket.yy",
+    "name":"obj_secret_black_bucket_parent",
+    "path":"objects/obj_secret_black_bucket_parent/obj_secret_black_bucket_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

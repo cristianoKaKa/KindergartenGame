@@ -1,17 +1,19 @@
 {
   "$GMObject":"",
   "%Name":"obj_secret_red_bucket6",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_secret_red_bucket6",
   "overriddenProperties":[],
   "parent":{
-    "name":"secret_bucket",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket.yy",
+    "name":"obj_red_buckets_secret",
+    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_red_buckets_secret.yy",
   },
   "parentObjectId":{
-    "name":"obj_parent_secet_bucket",
-    "path":"objects/obj_parent_secet_bucket/obj_parent_secet_bucket.yy",
+    "name":"obj_secret_red_bucket_parent",
+    "path":"objects/obj_secret_red_bucket_parent/obj_secret_red_bucket_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

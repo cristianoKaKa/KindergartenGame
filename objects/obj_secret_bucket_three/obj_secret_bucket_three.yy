@@ -6,8 +6,8 @@
   "name":"obj_secret_bucket_three",
   "overriddenProperties":[],
   "parent":{
-    "name":"secret_bucket",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket.yy",
+    "name":"obj_secret_bucket_numbers",
+    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_secret_bucket_numbers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -3,9 +3,10 @@
 if(!grab) return;
 grab = false;
 depth = 0;
-audio_play_sound(snd_pop,0,false);
 
-var _initial_x = 416;
+//origin_x = x;
+//origin_y = y;
+var _initial_x = 576;
 var _initial_y = 192;
 var _array;
 var _new_box_id;
@@ -34,28 +35,28 @@ var _wl = global.white_left;
 var _wr = global.white_right;
 var _wt = global.white_top;
 var _wb = global.white_bottom;
-if (x>=_bl and x<=_br and y>=_bt and y<=_bb){
+if (x>=_bl and x<=_br and y>=_bt and y<=_bb){		//在黑框
 	_pos_x = global.pos_black[0];
 	_pos_y = global.pos_black[1];
 	_array = global.black_array;
 	box_idx = 1;
 	_new_box_id = 1;
 }
-else if(x>=_gl and x<=_gr and y>=_gt and y<=_gb){
+else if(x>=_gl and x<=_gr and y>=_gt and y<=_gb){	//在绿框
 	_pos_x = global.pos_green[0];
 	_pos_y = global.pos_green[1];
 	_array = global.green_array;
 	box_idx = 2;
 	_new_box_id = 2;
 }
-else if(x>=_yl and x<=_yr and y>=_yt and y<=_yb){
+else if(x>=_yl and x<=_yr and y>=_yt and y<=_yb){	//在黄框
 	_pos_x = global.pos_yellow[0];
 	_pos_y = global.pos_yellow[1];
 	_array = global.yellow_array;
 	box_idx = 3;
 	_new_box_id = 3;
 }
-else if(x>=_wl and x<=_wr and y>=_wt and y<=_wb){
+else if(x>=_wl and x<=_wr and y>=_wt and y<=_wb){	//在白框
 	_pos_x = global.pos_white[0];
 	_pos_y = global.pos_white[1];
 	_array = global.white_array;
@@ -68,7 +69,7 @@ else if(x>=_wl and x<=_wr and y>=_wt and y<=_wb){
 	_new_box_id = 0;
 }
 
-if(origin_box_id == _new_box_id){
+if(origin_box_id == _new_box_id){	//移动到原有box，没有变化
 	x = origin_x;
 	y = origin_y;
 	return;
@@ -78,17 +79,30 @@ if(_in_box){	//入盒
 	while(_i<global.arr_len and _array[_i]!="0"){
 		_i+=1;
 	}
-	if(_i<global.arr_len){	//盒中存在空位
+	if(box_idx!=1){					//进错盒，则报错并返回原位置
+		audio_play_sound(snd_beep_error,0,false);
+		x = origin_x;
+		y = origin_y;
+	}
+	else if(_i<global.arr_len){	//盒中存在空位,成功入盒
 		show_debug_message("Black drop 1 In box!");
-		x = _pos_x+_i*80;
+		if(_i==1) audio_play_sound(snd_pop,0,false);
+		else audio_play_sound(snd_beep_warning,0,false);
+		if(origin_box_id==0){	//之前不在盒子中
+			global.in_box_cnt +=1;
+			show_debug_message("In box count plus 1, now is: {0}", global.in_box_cnt);
+		}
+		x = _pos_x+_i*interval;
 		y = _pos_y;
-		if(origin_box_id!=0 and origin_box_id!=_new_box_id){
+		if(origin_box_id!=0 and origin_box_id!=_new_box_id){	//之前在非本盒子的某个盒子中
 			_origin_array[pos_idx] = "0";
 		}
 		pos_idx = _i;
 		_array[pos_idx] = "black_drop1";
 		origin_box_id = _new_box_id;
-	}else{		//盒中没有空位，需要返回初始位置
+		show_debug_message("drop 1 x={0}, y={1}", x,y);
+	}
+	else{		//盒中没有空位，需要返回初始位置
 		show_debug_message("Black drop 1 No free space!");
 		x = _initial_x;
 		y = _initial_y;
@@ -113,6 +127,8 @@ if(_in_box){	//入盒
 		pos_idx=0;
 		//show_debug_message("origin:");
 		//show_debug_message(_origin_array);
+		global.in_box_cnt -=1;
+		show_debug_message("In box count minus 1, now is: {0}", global.in_box_cnt);
 	}
 }
 origin_x = x;

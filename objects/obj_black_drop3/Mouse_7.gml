@@ -3,10 +3,9 @@
 if(!grab) return;
 grab = false;
 depth = 0;
-audio_play_sound(snd_pop,0,false);
 
-var _initial_x = 416;
-var _initial_y = 96;
+var _initial_x = 704;
+var _initial_y = 192;
 var _array;
 var _new_box_id;
 var _in_box = true;
@@ -78,10 +77,21 @@ if(_in_box){	//入盒
 	while(_i<global.arr_len and _array[_i]!="0"){
 		_i+=1;
 	}
-	if(_i<global.arr_len){	//盒中存在空位
+	if(box_idx!=1){					//进错盒，则报错并返回原位置
+		audio_play_sound(snd_beep_error,0,false);
+		x = origin_x;
+		y = origin_y;
+	}
+	else if(_i<global.arr_len){	//盒中存在空位
 		show_debug_message("Black drop 3 In box!");
-		x = _pos_x+_i*80;
+		if(_i==3) audio_play_sound(snd_pop,0,false);
+		else audio_play_sound(snd_beep_warning,0,false);
+		x = _pos_x+_i*interval;
 		y = _pos_y;
+		if(origin_box_id==0){	//之前不在盒子中
+			global.in_box_cnt +=1;
+			show_debug_message("In box count plus 1, now is: {0}", global.in_box_cnt);
+		}
 		if(origin_box_id!=0 and origin_box_id!=_new_box_id){ //若之前在某个盒子中
 			_origin_array[pos_idx] = "0";
 		}
@@ -113,6 +123,8 @@ if(_in_box){	//入盒
 		pos_idx=0;
 		//show_debug_message("origin:");
 		//show_debug_message(_origin_array);
+		global.in_box_cnt -=1;
+		show_debug_message("In box count minus 1, now is: {0}", global.in_box_cnt);
 	}
 }
 origin_x = x;

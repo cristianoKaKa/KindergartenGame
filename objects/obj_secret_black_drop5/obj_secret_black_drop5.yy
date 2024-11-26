@@ -8,8 +8,8 @@
   "name":"obj_secret_black_drop5",
   "overriddenProperties":[],
   "parent":{
-    "name":"secret_bucket",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket.yy",
+    "name":"obj_secret_drops",
+    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_secret_drops.yy",
   },
   "parentObjectId":null,
   "persistent":false,

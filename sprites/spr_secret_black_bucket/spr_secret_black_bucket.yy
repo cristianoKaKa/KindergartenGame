@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"secret_oil",
-    "path":"folders/Sprites/xiaoban/secret_oil.yy",
+    "path":"folders/Sprites/xiaoban_chapter1/secret_oil.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
