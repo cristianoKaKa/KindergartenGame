@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_drll_string);
+room_goto(rm_cover_drill_string);
 
 
