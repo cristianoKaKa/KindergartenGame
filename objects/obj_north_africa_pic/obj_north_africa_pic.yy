@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_north_africa_pic",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_north_africa_pic",
   "overriddenProperties":[],
   "parent":{
-    "name":"oil_distribution",
-    "path":"folders/Objects/dabanzu/oil_distribution.yy",
+    "name":"obj_od_pictures",
+    "path":"folders/Objects/dabanzu/oil_distribution/obj_od_pictures.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil_distribution",

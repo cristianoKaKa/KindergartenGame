@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_fire_afraid);
+room_goto(rm_cover_fire_afraid);
 
 

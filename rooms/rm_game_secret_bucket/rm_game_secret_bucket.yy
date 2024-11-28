@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"rm_game_secret_bucket",
   "creationCodeFile":"",
   "inheritCode":false,

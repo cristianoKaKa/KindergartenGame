@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"rm_game_worker_clothe",
   "creationCodeFile":"",
   "inheritCode":false,

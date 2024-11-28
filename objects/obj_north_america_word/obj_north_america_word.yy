@@ -6,8 +6,8 @@
   "name":"obj_north_america_word",
   "overriddenProperties":[],
   "parent":{
-    "name":"oil_distribution",
-    "path":"folders/Objects/dabanzu/oil_distribution.yy",
+    "name":"obj_od_words",
+    "path":"folders/Objects/dabanzu/oil_distribution/obj_od_words.yy",
   },
   "parentObjectId":null,
   "persistent":false,

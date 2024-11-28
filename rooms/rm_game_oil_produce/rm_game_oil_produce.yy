@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"rm_game_oil_produce",
   "creationCodeFile":"",
   "inheritCode":false,

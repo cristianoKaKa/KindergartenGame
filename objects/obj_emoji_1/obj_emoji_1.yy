@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_emoji_1",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_emoji_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"oil_distribution",
-    "path":"folders/Objects/dabanzu/oil_distribution.yy",
+    "name":"obj_od_little_objs",
+    "path":"folders/Objects/dabanzu/oil_distribution/obj_od_little_objs.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil_distribution",
