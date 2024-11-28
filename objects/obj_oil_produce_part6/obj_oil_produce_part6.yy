@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_oil_produce_part6",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_oil_produce_part6",
   "overriddenProperties":[],
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_oil_produce_part6",
-    "path":"sprites/spr_oil_produce_part6/spr_oil_produce_part6.yy",
+    "name":"spr_oil_produce_part12",
+    "path":"sprites/spr_oil_produce_part12/spr_oil_produce_part12.yy",
   },
   "spriteMaskId":null,
   "visible":true,

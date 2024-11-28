@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_oil_produce);
+room_goto(rm_cover_oil_produce);
 
 

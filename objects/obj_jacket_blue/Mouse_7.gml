@@ -7,6 +7,7 @@ var _controller = instance_find(obj_worker_player,0);
 if(worker==1) _controller.worker_1[1]="0";
 if(worker==2) _controller.worker_2[1]="0";
 if(worker==3) _controller.worker_3[1]="0";
+if(worker==0) global.in_box_cnt+=1;
 	
 if(place_meeting(x,y,obj_worker1)){
 	if(_controller.worker_1[1]=="0" || _controller.worker_1[1]=="blue"){
@@ -54,4 +55,19 @@ else{
 	x = origin_x;
 	y = origin_y;
 	worker = 0;
+	global.in_box_cnt -= 1;
 }
+if(worker==0) return;
+var _woker_arr = [];
+if(worker==1)  _woker_arr=_controller.worker_1;
+if(worker==2)  _woker_arr=_controller.worker_2;
+if(worker==3)  _woker_arr=_controller.worker_3;
+var _right_worker = true;
+for(var _i=0;_i<3;_i+=1){
+	if(_woker_arr[_i]!="blue" && _woker_arr[_i]!="0"){
+		_right_worker = false;
+	}
+}
+if(_right_worker) audio_play_sound(snd_pop,0,false);
+else audio_play_sound(snd_beep_warning,0,false);
+show_debug_message("in box cnt = {0}", global.in_box_cnt);

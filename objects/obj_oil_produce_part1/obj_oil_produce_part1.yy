@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_oil_produce_part1",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_oil_produce_part1",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"oil_produce",
     "path":"folders/Objects/daban/oil_produce.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_oil_produce",
+    "path":"objects/obj_parent_oil_produce/obj_parent_oil_produce.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_oil_produce_part1",
-    "path":"sprites/spr_oil_produce_part1/spr_oil_produce_part1.yy",
+    "name":"spr_oil_produce_part2",
+    "path":"sprites/spr_oil_produce_part2/spr_oil_produce_part2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
