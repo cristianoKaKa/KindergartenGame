@@ -6,7 +6,8 @@ if(global.in_box_cnt!=obj_num){
 }
 
 if(!_succeed  && global.in_box_cnt==obj_num){		//所有对象都已进箱
-	show_message_async("恭喜你！成功了！");
+	// 创建弹窗和按钮
+	congrats();
 	audio_play_sound(snd_co_succeed,0,false);
 	_succeed = true;
 	

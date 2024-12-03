@@ -43,7 +43,9 @@ if(!_succeed  && global.in_box_cnt==20){		//所有对象都已进箱
 		}
 	}
 	if(_black_true && _green_true && _white_true && _yellow_true){
-		show_message_async("恭喜你！成功了！");
+		// 创建弹窗和按钮
+		congrats();
+
 		audio_play_sound(snd_co_succeed,0,false);
 		_succeed = true;
 	}

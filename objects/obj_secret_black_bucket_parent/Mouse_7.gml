@@ -78,12 +78,13 @@ if(_in_box){	//入盒
 	while(_i<array_length(_array) and _array[_i]!="0"){
 		_i+=1;
 	}
-	if(box_idx==3 || box_idx==4){					//进错盒，则报错并返回原位置
+	/*if(box_idx==3 || box_idx==4){					//进错盒，则报错并返回原位置
 		audio_play_sound(snd_beep_error,0,false);
 		x = origin_x;
 		y = origin_y;
 	}
-	else if(_i<array_length(_array)){	//盒中存在空位,成功入盒
+	else*/
+	if(_i<array_length(_array)){	//盒中存在空位,成功入盒
 		show_debug_message("Black bucket In box!");
 		audio_play_sound(snd_pop,0,false);
 		if(origin_box_id==0){	//之前不在盒子中
@@ -112,6 +113,7 @@ if(_in_box){	//入盒
 	}
 }
 if(_back_origin){				//回到初始框
+	audio_play_sound(snd_beep_error,0,false);
 	if(origin_box_id==0){
 		x = origin_x;
 		y = origin_y;

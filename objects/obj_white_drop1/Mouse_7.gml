@@ -4,7 +4,7 @@ if(!grab) return;
 grab = false;
 depth = 0;
 
-var _initial_x = 10561376;
+var _initial_x = 1376;
 var _initial_y = 192;
 var _array;
 var _new_box_id;
