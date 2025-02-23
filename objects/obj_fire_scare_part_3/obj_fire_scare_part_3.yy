@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parent_fire_part9",
+  "%Name":"obj_fire_scare_part_3",
   "eventList":[],
   "managed":true,
-  "name":"obj_parent_fire_part9",
+  "name":"obj_fire_scare_part_3",
   "overriddenProperties":[],
   "parent":{
     "name":"fire_scare",
     "path":"folders/Objects/dabanzu/fire_scare.yy",
   },
   "parentObjectId":{
-    "name":"obj_parent_fire_scare",
-    "path":"objects/obj_parent_fire_scare/obj_parent_fire_scare.yy",
+    "name":"obj_parent_fire_scare_items",
+    "path":"objects/obj_parent_fire_scare_items/obj_parent_fire_scare_items.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fire_scare_part9",
-    "path":"sprites/spr_fire_scare_part9/spr_fire_scare_part9.yy",
+    "name":"spr_fire_scare_part3",
+    "path":"sprites/spr_fire_scare_part3/spr_fire_scare_part3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

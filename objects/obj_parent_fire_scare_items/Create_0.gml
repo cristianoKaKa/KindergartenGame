@@ -12,9 +12,5 @@ origin_box_id = 0;
 origin_x = x;
 origin_y = y;
 
-worker = 0;
-
-dragging = false;
-drag_offset_x = 0;
-drag_offset_y = 0;
-touch_id = -1; // 记录当前操作的触摸点ID
+initial_x = x;
+initial_y = y;

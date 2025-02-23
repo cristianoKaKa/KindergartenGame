@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parent_fire_scare",
+  "%Name":"obj_hat_blue_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_parent_fire_scare",
+  "name":"obj_hat_blue_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"fire_scare",
-    "path":"folders/Objects/dabanzu/fire_scare.yy",
+    "name":"clothes",
+    "path":"folders/Objects/xiaoban_chapter1/worker_cloth/clothes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_hat_blue",
+    "path":"sprites/spr_hat_blue/spr_hat_blue.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

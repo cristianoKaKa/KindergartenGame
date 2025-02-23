@@ -5,8 +5,8 @@
 event_inherited();
 
 if(place_meeting(x,y,obj_truck_bg)){
-	x = global.truck_pos[0];
-	y = global.truck_pos[1];
+	x = global.oil_bucket_pos[0];
+	y = global.oil_bucket_pos[1];
 	if(origin_box_id!=1) global.cnt_truck +=1;
 	origin_box_id = 1;
 }else{

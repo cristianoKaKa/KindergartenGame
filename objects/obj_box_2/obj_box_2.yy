@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_truck_part1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_box_2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_truck_part1",
+  "name":"obj_box_2",
   "overriddenProperties":[],
   "parent":{
     "name":"fire_scare",
     "path":"folders/Objects/dabanzu/fire_scare.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent_fire_scare_truck",
-    "path":"objects/obj_parent_fire_scare_truck/obj_parent_fire_scare_truck.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_truck_part1",
-    "path":"sprites/spr_truck_part1/spr_truck_part1.yy",
+    "name":"spr_red_box",
+    "path":"sprites/spr_red_box/spr_red_box.yy",
   },
   "spriteMaskId":null,
   "visible":true,

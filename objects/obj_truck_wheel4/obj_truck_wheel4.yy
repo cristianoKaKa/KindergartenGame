@@ -12,8 +12,8 @@
     "path":"folders/Objects/dabanzu/fire_scare.yy",
   },
   "parentObjectId":{
-    "name":"obj_parent_fire_scare",
-    "path":"objects/obj_parent_fire_scare/obj_parent_fire_scare.yy",
+    "name":"obj_parent_fire_scare_truck",
+    "path":"objects/obj_parent_fire_scare_truck/obj_parent_fire_scare_truck.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
