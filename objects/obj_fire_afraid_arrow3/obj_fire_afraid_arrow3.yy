@@ -9,10 +9,7 @@
     "name":"fire_afraid",
     "path":"folders/Objects/dabanChapter3/fire_afraid.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent_fire_afraid",
-    "path":"objects/obj_parent_fire_afraid/obj_parent_fire_afraid.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

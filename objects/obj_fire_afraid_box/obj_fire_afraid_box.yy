@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fire_afraid_chai",
+  "%Name":"obj_fire_afraid_box",
   "eventList":[],
   "managed":true,
-  "name":"obj_fire_afraid_chai",
+  "name":"obj_fire_afraid_box",
   "overriddenProperties":[],
   "parent":{
     "name":"fire_afraid",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fire_afraid_chai",
-    "path":"sprites/spr_fire_afraid_chai/spr_fire_afraid_chai.yy",
+    "name":"spr_red_box",
+    "path":"sprites/spr_red_box/spr_red_box.yy",
   },
   "spriteMaskId":null,
   "visible":true,

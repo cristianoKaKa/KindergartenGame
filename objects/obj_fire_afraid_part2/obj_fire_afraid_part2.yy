@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_fire_afraid_part2",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_fire_afraid_part2",
   "overriddenProperties":[],

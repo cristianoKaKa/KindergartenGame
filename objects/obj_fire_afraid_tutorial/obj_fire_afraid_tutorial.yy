@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fire_afraid_chai",
-  "eventList":[],
+  "%Name":"obj_fire_afraid_tutorial",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_fire_afraid_chai",
+  "name":"obj_fire_afraid_tutorial",
   "overriddenProperties":[],
   "parent":{
     "name":"fire_afraid",
     "path":"folders/Objects/dabanChapter3/fire_afraid.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_tutorial_parent",
+    "path":"objects/obj_tutorial_parent/obj_tutorial_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_fire_afraid_chai",
-    "path":"sprites/spr_fire_afraid_chai/spr_fire_afraid_chai.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
