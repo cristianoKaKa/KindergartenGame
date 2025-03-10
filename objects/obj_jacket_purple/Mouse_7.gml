@@ -1,7 +1,7 @@
 /// @description 在此处插入描述 
 // 你可以在此编辑器中写入代码 
 event_inherited();
-depth = -1;
+depth = 0;
 
 var _controller = instance_find(obj_worker_player,0);
 if(worker==1) _controller.worker_1[1]="0";

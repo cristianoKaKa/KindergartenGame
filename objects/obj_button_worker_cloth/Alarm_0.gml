@@ -3,5 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_worker_clothe);
+room_goto(rm_cover_worker_clothe);
 
