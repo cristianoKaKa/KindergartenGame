@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_haircut_tutorial",
+  "%Name":"spr_oil_baby_tutorial",
   "bboxMode":0,
   "bbox_bottom":299,
   "bbox_left":0,
@@ -12,28 +12,28 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"946a46e2-5c11-4663-a596-81d2a7409574","name":"946a46e2-5c11-4663-a596-81d2a7409574","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":300,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8ae3ba6c-d530-4dce-bb7f-6fa5c3ad3a0d","blendMode":0,"displayName":"default","isLocked":false,"name":"8ae3ba6c-d530-4dce-bb7f-6fa5c3ad3a0d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c4275ab9-a7c2-4ee4-8e56-11458f40a487","blendMode":0,"displayName":"default","isLocked":false,"name":"c4275ab9-a7c2-4ee4-8e56-11458f40a487","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_haircut_tutorial",
+  "name":"spr_oil_baby_tutorial",
   "nineSlice":null,
   "origin":4,
   "parent":{
     "name":"tutorial",
-    "path":"folders/Sprites/dabanChapter3/haircut/tutorial.yy",
+    "path":"folders/Sprites/xiaoban_chapter1/oil_baby/tutorial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_haircut_tutorial",
+    "%Name":"spr_oil_baby_tutorial",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_haircut_tutorial",
+    "name":"spr_oil_baby_tutorial",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","path":"sprites/spr_haircut_tutorial/spr_haircut_tutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"77fa2d73-1d1e-4f7c-bea3-a0806c9f7b34","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"946a46e2-5c11-4663-a596-81d2a7409574","path":"sprites/spr_oil_baby_tutorial/spr_oil_baby_tutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"07df7b53-ee02-4325-80ee-3a283379edd3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
