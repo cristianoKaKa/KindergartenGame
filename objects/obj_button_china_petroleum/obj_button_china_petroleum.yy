@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_fire_scare",
+  "%Name":"obj_button_china_petroleum",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_fire_scare",
+  "name":"obj_button_china_petroleum",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"怕火的油罐车",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"中国石油标志",},
   ],
   "parent":{
-    "name":"dabanzu",
-    "path":"folders/Objects/buttons/dabanzu.yy",
+    "name":"zhongban",
+    "path":"folders/Objects/buttons/zhongban.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",
