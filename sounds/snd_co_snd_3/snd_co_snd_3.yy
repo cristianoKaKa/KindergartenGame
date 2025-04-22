@@ -9,11 +9,11 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":3.672,
+  "duration":3.672018,
   "name":"snd_co_snd_3",
   "parent":{
     "name":"colorful_oil",
-    "path":"folders/Sounds/xiaoban_chapter1/colorful_oil.yy",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter1/colorful_oil.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

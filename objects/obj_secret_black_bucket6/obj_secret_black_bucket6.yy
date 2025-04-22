@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_black_buckets_secret",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_black_buckets_secret.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/secret_bucket/obj_black_buckets_secret.yy",
   },
   "parentObjectId":{
     "name":"obj_secret_black_bucket_parent",

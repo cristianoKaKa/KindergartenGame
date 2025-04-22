@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"worker_cloth",
-    "path":"folders/Objects/xiaoban_chapter1/worker_cloth.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/worker_cloth.yy",
   },
   "parentObjectId":null,
   "persistent":false,

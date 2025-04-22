@@ -70,7 +70,7 @@
   "name":"rm_game_colorful_oil",
   "parent":{
     "name":"xiaoban_chapter1",
-    "path":"folders/Rooms/xiaoban_chapter1.yy",
+    "path":"folders/Rooms/xiaoban/xiaoban_chapter1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_buckets",
-    "path":"folders/Objects/xiaoban_chapter1/colorful_oil/obj_buckets.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/colorful_oil/obj_buckets.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil",

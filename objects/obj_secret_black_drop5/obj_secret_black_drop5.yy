@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_secret_drops",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket/obj_secret_drops.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/secret_bucket/obj_secret_drops.yy",
   },
   "parentObjectId":null,
   "persistent":false,

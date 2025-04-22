@@ -13,7 +13,7 @@
   "name":"snd_worker_cloth_step_3",
   "parent":{
     "name":"worker_cloth",
-    "path":"folders/Sounds/xiaoban_chapter1/worker_cloth.yy",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter1/worker_cloth.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

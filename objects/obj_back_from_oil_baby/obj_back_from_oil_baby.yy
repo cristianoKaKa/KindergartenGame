@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"xiaoban_chapter1",
-    "path":"folders/Objects/icons/xiaoban_chapter1.yy",
+    "path":"folders/Objects/icons/xiaoban/xiaoban_chapter1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

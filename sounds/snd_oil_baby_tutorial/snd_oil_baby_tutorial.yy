@@ -13,7 +13,7 @@
   "name":"snd_oil_baby_tutorial",
   "parent":{
     "name":"oil_baby",
-    "path":"folders/Sounds/xiaoban_chapter1/oil_baby.yy",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter1/oil_baby.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

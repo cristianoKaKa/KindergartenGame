@@ -13,7 +13,7 @@
   "name":"snd_secret_bucket_step_2",
   "parent":{
     "name":"secret_bucket",
-    "path":"folders/Sounds/xiaoban_chapter1/secret_bucket.yy",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter1/secret_bucket.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_baby",
-    "path":"folders/Objects/xiaoban_chapter1/oil_baby.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/oil_baby.yy",
   },
   "parentObjectId":{
     "name":"obj_co_car_parent",

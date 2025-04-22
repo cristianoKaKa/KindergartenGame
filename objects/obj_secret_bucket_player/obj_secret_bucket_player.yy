@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"secret_bucket",
-    "path":"folders/Objects/xiaoban_chapter1/secret_bucket.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/secret_bucket.yy",
   },
   "parentObjectId":null,
   "persistent":false,

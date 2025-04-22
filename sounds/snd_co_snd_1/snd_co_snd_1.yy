@@ -13,7 +13,7 @@
   "name":"snd_co_snd_1",
   "parent":{
     "name":"colorful_oil",
-    "path":"folders/Sounds/xiaoban_chapter1/colorful_oil.yy",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter1/colorful_oil.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

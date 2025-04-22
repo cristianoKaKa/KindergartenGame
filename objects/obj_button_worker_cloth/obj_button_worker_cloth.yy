@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"石油工人的衣服",},
   ],
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Objects/buttons/xiaoban.yy",
+    "name":"xiaoban_chapter1",
+    "path":"folders/Objects/buttons/xiaoban/xiaoban_chapter1.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",
