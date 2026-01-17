@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"refined_oil_fire",
   "bboxMode":0,
   "bbox_bottom":4521,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f25c19a2-adb9-4303-ad68-c54a09acc04c","name":"f25c19a2-adb9-4303-ad68-c54a09acc04c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f25c19a2-adb9-4303-ad68-c54a09acc04c","name":"f25c19a2-adb9-4303-ad68-c54a09acc04c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_haircut_pic4_zhabian",
   "bboxMode":0,
   "bbox_bottom":179,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f9b91b3a-9d7c-49d0-b30c-c35563baf02f","name":"f9b91b3a-9d7c-49d0-b30c-c35563baf02f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f9b91b3a-9d7c-49d0-b30c-c35563baf02f","name":"f9b91b3a-9d7c-49d0-b30c-c35563baf02f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

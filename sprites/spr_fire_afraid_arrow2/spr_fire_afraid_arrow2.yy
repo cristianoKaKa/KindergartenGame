@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_fire_afraid_arrow2",
   "bboxMode":0,
   "bbox_bottom":79,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c7065cec-0cc4-4da5-977b-4f1aacbfad1f","name":"c7065cec-0cc4-4da5-977b-4f1aacbfad1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c7065cec-0cc4-4da5-977b-4f1aacbfad1f","name":"c7065cec-0cc4-4da5-977b-4f1aacbfad1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

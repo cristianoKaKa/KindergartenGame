@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_truck_bg",
   "bboxMode":0,
   "bbox_bottom":191,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"514c3a9e-32e1-4ccb-be9c-c2b5ed277f3c","name":"514c3a9e-32e1-4ccb-be9c-c2b5ed277f3c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"514c3a9e-32e1-4ccb-be9c-c2b5ed277f3c","name":"514c3a9e-32e1-4ccb-be9c-c2b5ed277f3c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

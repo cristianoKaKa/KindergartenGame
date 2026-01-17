@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_fire_afraid_chai",
   "bboxMode":0,
   "bbox_bottom":179,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"9a2ac473-dbff-43dc-ab9c-e1a8459887cf","name":"9a2ac473-dbff-43dc-ab9c-e1a8459887cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9a2ac473-dbff-43dc-ab9c-e1a8459887cf","name":"9a2ac473-dbff-43dc-ab9c-e1a8459887cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

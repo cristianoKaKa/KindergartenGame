@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"refined_oil_plane",
   "bboxMode":0,
   "bbox_bottom":4521,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"744d4177-b341-40c0-9b77-89a77396f29d","name":"744d4177-b341-40c0-9b77-89a77396f29d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"744d4177-b341-40c0-9b77-89a77396f29d","name":"744d4177-b341-40c0-9b77-89a77396f29d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

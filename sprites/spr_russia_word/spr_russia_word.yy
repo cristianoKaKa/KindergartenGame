@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_russia_word",
   "bboxMode":0,
   "bbox_bottom":58,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e7f54d1c-e7ff-46df-90bc-8ebe557f3fe9","name":"e7f54d1c-e7ff-46df-90bc-8ebe557f3fe9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e7f54d1c-e7ff-46df-90bc-8ebe557f3fe9","name":"e7f54d1c-e7ff-46df-90bc-8ebe557f3fe9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

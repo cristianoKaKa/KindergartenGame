@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_fire_scare_part10",
   "bboxMode":0,
   "bbox_bottom":148,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2b6ab3ae-4d0f-49e7-b833-f13a3bd4fe0a","name":"2b6ab3ae-4d0f-49e7-b833-f13a3bd4fe0a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2b6ab3ae-4d0f-49e7-b833-f13a3bd4fe0a","name":"2b6ab3ae-4d0f-49e7-b833-f13a3bd4fe0a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

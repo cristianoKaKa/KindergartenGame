@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_oil_produce_part1",
   "bboxMode":0,
   "bbox_bottom":219,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0604cd1b-0ec8-49e3-8267-fe81506d3520","name":"0604cd1b-0ec8-49e3-8267-fe81506d3520","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0604cd1b-0ec8-49e3-8267-fe81506d3520","name":"0604cd1b-0ec8-49e3-8267-fe81506d3520","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

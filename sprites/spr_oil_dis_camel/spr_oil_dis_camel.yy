@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_oil_dis_camel",
   "bboxMode":0,
   "bbox_bottom":40,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"59f8ea4c-4cb3-4ce0-92a2-af0b04545c97","name":"59f8ea4c-4cb3-4ce0-92a2-af0b04545c97","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"59f8ea4c-4cb3-4ce0-92a2-af0b04545c97","name":"59f8ea4c-4cb3-4ce0-92a2-af0b04545c97","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

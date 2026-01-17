@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_north_america_pic",
   "bboxMode":0,
   "bbox_bottom":158,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"41ae62f0-eb69-4ff1-a8c1-2c7ecdbe2c54","name":"41ae62f0-eb69-4ff1-a8c1-2c7ecdbe2c54","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"41ae62f0-eb69-4ff1-a8c1-2c7ecdbe2c54","name":"41ae62f0-eb69-4ff1-a8c1-2c7ecdbe2c54","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

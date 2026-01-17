@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_north_africa_pic",
   "bboxMode":0,
   "bbox_bottom":153,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"08f2ffcc-4164-4efc-aef6-ce0794eb1544","name":"08f2ffcc-4164-4efc-aef6-ce0794eb1544","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"08f2ffcc-4164-4efc-aef6-ce0794eb1544","name":"08f2ffcc-4164-4efc-aef6-ce0794eb1544","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

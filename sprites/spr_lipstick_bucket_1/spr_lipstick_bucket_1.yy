@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_lipstick_bucket_1",
   "bboxMode":0,
   "bbox_bottom":149,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cf0bc854-8e8f-4150-97ea-c7dbb8aab739","name":"cf0bc854-8e8f-4150-97ea-c7dbb8aab739","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cf0bc854-8e8f-4150-97ea-c7dbb8aab739","name":"cf0bc854-8e8f-4150-97ea-c7dbb8aab739","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

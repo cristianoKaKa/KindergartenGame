@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_haircut_pic3_sanfa",
   "bboxMode":0,
   "bbox_bottom":179,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"07ca6b48-bc3d-4105-aebf-04e66758fec1","name":"07ca6b48-bc3d-4105-aebf-04e66758fec1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"07ca6b48-bc3d-4105-aebf-04e66758fec1","name":"07ca6b48-bc3d-4105-aebf-04e66758fec1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

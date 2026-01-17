@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_mid_east_pic",
   "bboxMode":0,
   "bbox_bottom":160,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5810143a-4231-448b-892b-fb7f1fbd8fc1","name":"5810143a-4231-448b-892b-fb7f1fbd8fc1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5810143a-4231-448b-892b-fb7f1fbd8fc1","name":"5810143a-4231-448b-892b-fb7f1fbd8fc1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

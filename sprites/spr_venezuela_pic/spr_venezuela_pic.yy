@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_venezuela_pic",
   "bboxMode":0,
   "bbox_bottom":161,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6bb77e7f-d43a-4f1f-8a1f-a7f99903b875","name":"6bb77e7f-d43a-4f1f-8a1f-a7f99903b875","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6bb77e7f-d43a-4f1f-8a1f-a7f99903b875","name":"6bb77e7f-d43a-4f1f-8a1f-a7f99903b875","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

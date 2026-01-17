@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"refined_oil_road",
   "bboxMode":0,
   "bbox_bottom":4521,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"66c8904c-f5ed-48eb-b7a6-84a6c3baeddf","name":"66c8904c-f5ed-48eb-b7a6-84a6c3baeddf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"66c8904c-f5ed-48eb-b7a6-84a6c3baeddf","name":"66c8904c-f5ed-48eb-b7a6-84a6c3baeddf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

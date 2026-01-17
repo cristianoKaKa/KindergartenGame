@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_russia_pic",
   "bboxMode":0,
   "bbox_bottom":154,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"37f91ac4-31e0-4ef8-90d8-7d0b95ca8003","name":"37f91ac4-31e0-4ef8-90d8-7d0b95ca8003","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"37f91ac4-31e0-4ef8-90d8-7d0b95ca8003","name":"37f91ac4-31e0-4ef8-90d8-7d0b95ca8003","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

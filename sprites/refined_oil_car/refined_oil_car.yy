@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"refined_oil_car",
   "bboxMode":0,
   "bbox_bottom":4208,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b3cf0107-dfea-4997-a768-26a3acb48d5b","name":"b3cf0107-dfea-4997-a768-26a3acb48d5b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b3cf0107-dfea-4997-a768-26a3acb48d5b","name":"b3cf0107-dfea-4997-a768-26a3acb48d5b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

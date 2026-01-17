@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_lipstick_stone_5",
   "bboxMode":0,
   "bbox_bottom":49,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1f0d63c9-5b8c-4601-b68e-3cbce2ff1a2e","name":"1f0d63c9-5b8c-4601-b68e-3cbce2ff1a2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1f0d63c9-5b8c-4601-b68e-3cbce2ff1a2e","name":"1f0d63c9-5b8c-4601-b68e-3cbce2ff1a2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

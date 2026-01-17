@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"refined_oi_puzzle",
   "bboxMode":0,
   "bbox_bottom":1609,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a47cd85e-bbbd-47c2-bb70-de25733fea06","name":"a47cd85e-bbbd-47c2-bb70-de25733fea06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a47cd85e-bbbd-47c2-bb70-de25733fea06","name":"a47cd85e-bbbd-47c2-bb70-de25733fea06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
