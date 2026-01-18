@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_baby_train_1",
+  "%Name":"snd_baby_drop_back_home_3",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,17 +10,17 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":4.176009,
+  "duration":4.92,
   "exportDir":"",
-  "name":"snd_baby_train_1",
+  "name":"snd_baby_drop_back_home_3",
   "parent":{
-    "name":"baby_train",
-    "path":"folders/Sounds/xiaoban/xiaoban_chapter2/baby_train.yy",
+    "name":"baby_drop_back_home",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter2/baby_drop_back_home.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_baby_train_1.mp3",
+  "soundFile":"snd_baby_drop_back_home_3.mp3",
   "volume":1.0,
 }

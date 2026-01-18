@@ -2,6 +2,6 @@
 function congrats(){
 	var popup = instance_create_layer(room_width / 2, room_height / 2, "Instances", obj_popup);
 	var button = instance_create_layer(popup.x-40, popup.y + 150, "Instances", obj_button_done);
-	popup.depth = -1;
+	popup.depth = -100;
 	button.depth = popup.depth - 1;
 }
