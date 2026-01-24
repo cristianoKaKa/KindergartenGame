@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"大班3单元",},
   ],
   "parent":{
-    "name":"buttons",
-    "path":"folders/Objects/buttons.yy",
+    "name":"daban",
+    "path":"folders/Objects/buttons/daban.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

@@ -10,8 +10,8 @@
   "name":"obj_back_from_oil_produce",
   "overriddenProperties":[],
   "parent":{
-    "name":"daban",
-    "path":"folders/Objects/icons/daban.yy",
+    "name":"daban_games",
+    "path":"folders/Objects/icons/daban/daban_games.yy",
   },
   "parentObjectId":null,
   "persistent":false,

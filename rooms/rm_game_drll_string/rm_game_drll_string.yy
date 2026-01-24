@@ -29,8 +29,8 @@
   ],
   "name":"rm_game_drll_string",
   "parent":{
-    "name":"daban",
-    "path":"folders/Rooms/daban.yy",
+    "name":"daban_games",
+    "path":"folders/Rooms/daban/daban_games.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

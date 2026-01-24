@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_back_from_perforating",
+  "%Name":"obj_back_daban",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_back_from_perforating",
+  "name":"obj_back_daban",
   "overriddenProperties":[],
   "parent":{
-    "name":"dabanzu",
-    "path":"folders/Objects/icons/daban/dabanzu.yy",
+    "name":"daban",
+    "path":"folders/Objects/icons/daban.yy",
   },
   "parentObjectId":null,
   "persistent":false,

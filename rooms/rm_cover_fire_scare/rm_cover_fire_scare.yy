@@ -18,7 +18,7 @@
   "name":"rm_cover_fire_scare",
   "parent":{
     "name":"dabanzu",
-    "path":"folders/Rooms/dabanzu.yy",
+    "path":"folders/Rooms/daban/dabanzu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_oil_distribution",
+  "%Name":"obj_button_daban_games",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_oil_distribution",
+  "name":"obj_button_daban_games",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"五大石油地区",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"大班",},
   ],
   "parent":{
-    "name":"dabanzu",
-    "path":"folders/Objects/buttons/daban/dabanzu.yy",
+    "name":"daban",
+    "path":"folders/Objects/buttons/daban.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

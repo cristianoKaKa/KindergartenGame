@@ -76,7 +76,7 @@
   "name":"rm_game_oil_distribution",
   "parent":{
     "name":"dabanzu",
-    "path":"folders/Rooms/dabanzu.yy",
+    "path":"folders/Rooms/daban/dabanzu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

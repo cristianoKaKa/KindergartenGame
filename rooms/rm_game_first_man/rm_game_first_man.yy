@@ -37,8 +37,8 @@
   ],
   "name":"rm_game_first_man",
   "parent":{
-    "name":"daban",
-    "path":"folders/Rooms/daban.yy",
+    "name":"daban_games",
+    "path":"folders/Rooms/daban/daban_games.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
