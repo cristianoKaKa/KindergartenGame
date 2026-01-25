@@ -54,7 +54,7 @@
   "name":"rm_game_haircut",
   "parent":{
     "name":"dabanChapter3",
-    "path":"folders/Rooms/dabanChapter3.yy",
+    "path":"folders/Rooms/daban/dabanChapter3.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

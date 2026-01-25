@@ -52,7 +52,7 @@
   "name":"rm_game_perforating",
   "parent":{
     "name":"dabanzu",
-    "path":"folders/Rooms/dabanzu.yy",
+    "path":"folders/Rooms/daban/dabanzu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

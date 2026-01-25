@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_od_pictures",
-    "path":"folders/Objects/dabanzu/oil_distribution/obj_od_pictures.yy",
+    "path":"folders/Objects/daban/dabanzu/oil_distribution/obj_od_pictures.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil_distribution",

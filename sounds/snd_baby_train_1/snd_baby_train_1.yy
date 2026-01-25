@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":4.176009,
   "exportDir":"",
   "name":"snd_baby_train_1",
   "parent":{

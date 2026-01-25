@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_first_part6",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_first_part6",
   "overriddenProperties":[],
   "parent":{
     "name":"first_man",
-    "path":"folders/Objects/daban/first_man.yy",
+    "path":"folders/Objects/daban/daban_games/first_man.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_first_man",

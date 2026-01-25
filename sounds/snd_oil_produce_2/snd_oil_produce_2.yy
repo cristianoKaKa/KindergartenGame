@@ -15,7 +15,7 @@
   "name":"snd_oil_produce_2",
   "parent":{
     "name":"oil_produce",
-    "path":"folders/Sounds/daban/oil_produce.yy",
+    "path":"folders/Sounds/daban/daban_games/oil_produce.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

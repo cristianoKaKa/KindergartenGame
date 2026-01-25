@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"refined_oil",
-    "path":"folders/Objects/dabanzu/refined_oil.yy",
+    "path":"folders/Objects/daban/dabanzu/refined_oil.yy",
   },
   "parentObjectId":null,
   "persistent":false,

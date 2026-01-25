@@ -6,7 +6,7 @@
   "name":"Script2",
   "parent":{
     "name":"fire_scare",
-    "path":"folders/Objects/dabanzu/fire_scare.yy",
+    "path":"folders/Objects/daban/dabanzu/fire_scare.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

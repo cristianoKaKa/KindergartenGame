@@ -38,7 +38,7 @@
   "name":"rm_game_refined_oil",
   "parent":{
     "name":"dabanzu",
-    "path":"folders/Rooms/dabanzu.yy",
+    "path":"folders/Rooms/daban/dabanzu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

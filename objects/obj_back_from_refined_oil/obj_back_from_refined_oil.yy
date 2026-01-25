@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"dabanzu",
-    "path":"folders/Objects/icons/dabanzu.yy",
+    "path":"folders/Objects/icons/daban/dabanzu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

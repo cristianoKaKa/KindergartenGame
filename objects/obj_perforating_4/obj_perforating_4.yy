@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"perforating",
-    "path":"folders/Objects/dabanzu/perforating.yy",
+    "path":"folders/Objects/daban/dabanzu/perforating.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_perforating",

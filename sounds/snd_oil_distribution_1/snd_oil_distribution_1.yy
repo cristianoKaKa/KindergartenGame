@@ -15,7 +15,7 @@
   "name":"snd_oil_distribution_1",
   "parent":{
     "name":"oil_distribution",
-    "path":"folders/Sounds/dabanzu/oil_distribution.yy",
+    "path":"folders/Sounds/daban/dabanzu/oil_distribution.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
