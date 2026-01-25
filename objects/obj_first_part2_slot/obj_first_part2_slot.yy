@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_first_part6",
+  "%Name":"obj_first_part2_slot",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_first_part6",
+  "name":"obj_first_part2_slot",
   "overriddenProperties":[],
   "parent":{
     "name":"first_man",
     "path":"folders/Objects/daban/daban_games/first_man.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent_first_man",
-    "path":"objects/obj_parent_first_man/obj_parent_first_man.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_first_part6",
-    "path":"sprites/spr_first_part6/spr_first_part6.yy",
+    "name":"spr_first_part2",
+    "path":"sprites/spr_first_part2/spr_first_part2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
