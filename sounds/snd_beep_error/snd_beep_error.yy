@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.22775,
+  "duration":1.2277551,
   "exportDir":"",
   "name":"snd_beep_error",
   "parent":{
