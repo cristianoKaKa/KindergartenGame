@@ -15,7 +15,7 @@
   "name":"snd_fire_afraid",
   "parent":{
     "name":"fire_afraid",
-    "path":"folders/Sounds/daban_chapter3/fire_afraid.yy",
+    "path":"folders/Sounds/daban/daban_chapter3/fire_afraid.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -15,7 +15,7 @@
   "name":"snd_haircut",
   "parent":{
     "name":"haircut",
-    "path":"folders/Sounds/daban_chapter3/haircut.yy",
+    "path":"folders/Sounds/daban/daban_chapter3/haircut.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

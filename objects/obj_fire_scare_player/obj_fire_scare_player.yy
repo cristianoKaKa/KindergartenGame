@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"fire_scare",
-    "path":"folders/Objects/dabanzu/fire_scare.yy",
+    "path":"folders/Objects/daban/dabanzu/fire_scare.yy",
   },
   "parentObjectId":null,
   "persistent":false,

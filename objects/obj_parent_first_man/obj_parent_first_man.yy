@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"first_man",
-    "path":"folders/Objects/daban/first_man.yy",
+    "path":"folders/Objects/daban/daban_games/first_man.yy",
   },
   "parentObjectId":null,
   "persistent":false,

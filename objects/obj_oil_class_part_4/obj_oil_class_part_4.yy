@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_classification",
-    "path":"folders/Objects/dabanChapter3/oil_classification.yy",
+    "path":"folders/Objects/daban/dabanChapter3/oil_classification.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil_class",

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_produce",
-    "path":"folders/Objects/daban/oil_produce.yy",
+    "path":"folders/Objects/daban/daban_games/oil_produce.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_oil_produce",

@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_distribution",
-    "path":"folders/Objects/dabanzu/oil_distribution.yy",
+    "path":"folders/Objects/daban/dabanzu/oil_distribution.yy",
   },
   "parentObjectId":null,
   "persistent":false,
