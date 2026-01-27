@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_earth_inner_structure_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.5040135,
+  "exportDir":"",
+  "name":"snd_earth_inner_structure_3",
+  "parent":{
+    "name":"earth_inner_structure",
+    "path":"folders/Sounds/daban/daban_games/earth_inner_structure.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_earth_inner_structure_3.mp3",
+  "volume":1.0,
+}
