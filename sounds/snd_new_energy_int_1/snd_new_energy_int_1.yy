@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_fire_afraid",
+  "%Name":"snd_new_energy_int_1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,17 +10,17 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":8.376009,
+  "duration":4.0560093,
   "exportDir":"",
-  "name":"snd_fire_afraid",
+  "name":"snd_new_energy_int_1",
   "parent":{
-    "name":"fire_afraid",
-    "path":"folders/Sounds/daban/daban_chapter3/fire_afraid.yy",
+    "name":"new_energy_int",
+    "path":"folders/Sounds/daban/daban_chapter5/new_energy_int.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_fire_afraid.mp3",
+  "soundFile":"snd_new_energy_int_1.mp3",
   "volume":1.0,
 }
