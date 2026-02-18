@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_oil_family_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.432018,
+  "exportDir":"",
+  "name":"snd_oil_family_3",
+  "parent":{
+    "name":"oil_family",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter3/oil_family.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_oil_family_3.mp3",
+  "volume":1.0,
+}
