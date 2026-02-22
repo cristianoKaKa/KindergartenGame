@@ -1,28 +1,24 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_xiaoban_chapter_5",
+  "%Name":"rm_cover_green_vehicle",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_54DF0C31_1_1_1","path":"rooms/rm_xiaoban_chapter_5/rm_xiaoban_chapter_5.yy",},
-    {"name":"inst_31EA436","path":"rooms/rm_xiaoban_chapter_5/rm_xiaoban_chapter_5.yy",},
-    {"name":"inst_477906DB","path":"rooms/rm_xiaoban_chapter_5/rm_xiaoban_chapter_5.yy",},
+    {"name":"inst_1605B670","path":"rooms/rm_cover_green_vehicle/rm_cover_green_vehicle.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_54DF0C31_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54DF0C31_1_1_1","objectId":{"name":"obj_back_xiaoban","path":"objects/obj_back_xiaoban/obj_back_xiaoban.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1536.0,"y":832.0,},
-        {"$GMRInstance":"v4","%Name":"inst_31EA436","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31EA436","objectId":{"name":"obj_button_tangram","path":"objects/obj_button_tangram/obj_button_tangram.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":128.0,},
-        {"$GMRInstance":"v4","%Name":"inst_477906DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_477906DB","objectId":{"name":"obj_button_green_vehicle","path":"objects/obj_button_green_vehicle/obj_button_green_vehicle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":352.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1605B670","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1605B670","objectId":{"name":"obj_button_green_vehicle_action","path":"objects/obj_button_green_vehicle_action/obj_button_green_vehicle_action.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":832.0,"y":416.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_pink_bg","path":"sprites/spr_pink_bg/spr_pink_bg.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_xiaoban_chapter_5",
+  "name":"rm_cover_green_vehicle",
   "parent":{
-    "name":"xiaoban_chapter5",
-    "path":"folders/Rooms/xiaoban/xiaoban_chapter5.yy",
+    "name":"green_vehicle",
+    "path":"folders/Rooms/xiaoban/xiaoban_chapter5/green_vehicle.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
