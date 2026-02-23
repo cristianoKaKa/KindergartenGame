@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_engine",
-    "path":"folders/Objects/zhongban/oil_engine.yy",
+    "path":"folders/Objects/zhongban/zhongban_chapter_1/oil_engine.yy",
   },
   "parentObjectId":null,
   "persistent":false,

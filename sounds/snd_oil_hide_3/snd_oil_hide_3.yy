@@ -15,7 +15,7 @@
   "name":"snd_oil_hide_3",
   "parent":{
     "name":"oil_hide",
-    "path":"folders/Sounds/zhongban/oil_hide.yy",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/oil_hide.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
