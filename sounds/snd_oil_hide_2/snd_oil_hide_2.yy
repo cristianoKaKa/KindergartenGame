@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_pop",
+  "%Name":"snd_oil_hide_2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,17 +10,17 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.08290249,
+  "duration":5.976009,
   "exportDir":"",
-  "name":"snd_pop",
+  "name":"snd_oil_hide_2",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"oil_hide",
+    "path":"folders/Sounds/zhongban/oil_hide.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_pop.wav",
+  "soundFile":"snd_oil_hide_2.mp3",
   "volume":1.0,
 }
