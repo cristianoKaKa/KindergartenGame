@@ -15,7 +15,7 @@
   "name":"snd_oil_engine_2",
   "parent":{
     "name":"oil_engine",
-    "path":"folders/Sounds/zhongban/oil_engine.yy",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/oil_engine.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

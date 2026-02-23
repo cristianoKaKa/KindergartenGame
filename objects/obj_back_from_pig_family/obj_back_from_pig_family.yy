@@ -10,8 +10,8 @@
   "name":"obj_back_from_pig_family",
   "overriddenProperties":[],
   "parent":{
-    "name":"china_petroleum_icon",
-    "path":"folders/Objects/icons/zhongban/zhongban_chapter1/china_petroleum_icon.yy",
+    "name":"zhongban_chapter1",
+    "path":"folders/Objects/icons/zhongban/zhongban_chapter1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

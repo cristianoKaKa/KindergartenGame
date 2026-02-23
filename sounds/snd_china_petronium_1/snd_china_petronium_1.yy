@@ -15,7 +15,7 @@
   "name":"snd_china_petronium_1",
   "parent":{
     "name":"china_petronium",
-    "path":"folders/Sounds/zhongban/china_petronium.yy",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/china_petronium.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

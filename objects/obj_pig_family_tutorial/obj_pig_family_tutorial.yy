@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"pig_family",
-    "path":"folders/Objects/zhongban/pig_family.yy",
+    "path":"folders/Objects/zhongban/zhongban_chapter_1/pig_family.yy",
   },
   "parentObjectId":{
     "name":"obj_tutorial_parent",

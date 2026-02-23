@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"oil_hide",
-    "path":"folders/Objects/zhongban/oil_hide.yy",
+    "path":"folders/Objects/zhongban/zhongban_chapter_1/oil_hide.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_common",

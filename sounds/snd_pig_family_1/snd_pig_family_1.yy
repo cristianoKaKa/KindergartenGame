@@ -15,7 +15,7 @@
   "name":"snd_pig_family_1",
   "parent":{
     "name":"pig_family",
-    "path":"folders/Sounds/zhongban/pig_family.yy",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/pig_family.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_tank_transport_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.96,
+  "exportDir":"",
+  "name":"snd_tank_transport_2",
+  "parent":{
+    "name":"tank_transport",
+    "path":"folders/Sounds/zhongban/zhongban_chapter2/tank_transport.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_tank_transport_2.mp3",
+  "volume":1.0,
+}
