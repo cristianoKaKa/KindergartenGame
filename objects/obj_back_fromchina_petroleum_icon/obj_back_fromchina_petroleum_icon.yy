@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"china_petroleum_icon",
-    "path":"folders/Objects/icons/zhongban/china_petroleum_icon.yy",
+    "path":"folders/Objects/icons/zhongban/zhongban_chapter1/china_petroleum_icon.yy",
   },
   "parentObjectId":null,
   "persistent":false,

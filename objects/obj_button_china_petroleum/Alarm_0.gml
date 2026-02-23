@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_china_petroleum_icon);
+room_goto(rm_cover_china_petroleum_icon);
 
 
