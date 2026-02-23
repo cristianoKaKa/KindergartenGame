@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_assemble_truck_truck_4_bg",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_assemble_truck_truck_4_bg",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"assemble_truck",
     "path":"folders/Objects/zhongban/zhongban_chapter_2/assemble_truck.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_assemble_truck_bg_parent",
+    "path":"objects/obj_assemble_truck_bg_parent/obj_assemble_truck_bg_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
