@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"china_petronium_icon",
-    "path":"folders/Sprites/zhongban/china_petronium_icon.yy",
+    "path":"folders/Sprites/zhongban/zhongban_chapter1/china_petronium_icon.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
