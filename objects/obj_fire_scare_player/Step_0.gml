@@ -10,10 +10,10 @@ if(in_box_cnt!=16){
 
 if(!_succeed  && in_box_cnt==16){		//所有对象都已进箱
 	var _box1_bool = false;
-	if(place_meeting(obj_fire_scare_part_1.x,obj_fire_scare_part_1.y,obj_box_1) && 
-		place_meeting(obj_fire_scare_part_1.x,obj_fire_scare_part_1.y,obj_box_1) && 
-		place_meeting(obj_fire_scare_part_1.x,obj_fire_scare_part_1.y,obj_box_1) && 
-		place_meeting(obj_fire_scare_part_1.x,obj_fire_scare_part_1.y,obj_box_1) )
+	if(place_meeting(obj_fire_scare_bottom_1.x,obj_fire_scare_bottom_1.y,obj_box_1) && 
+		place_meeting(obj_fire_scare_bottom_1.x,obj_fire_scare_bottom_1.y,obj_box_1) && 
+		place_meeting(obj_fire_scare_bottom_1.x,obj_fire_scare_bottom_1.y,obj_box_1) && 
+		place_meeting(obj_fire_scare_bottom_1.x,obj_fire_scare_bottom_1.y,obj_box_1) )
 	{
 		
 	}
