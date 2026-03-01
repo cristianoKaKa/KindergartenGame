@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_co_cars",
-    "path":"folders/Objects/xiaoban_chapter1/colorful_oil/obj_co_cars.yy",
+    "path":"folders/Objects/xiaoban/xiaoban_chapter1/colorful_oil/obj_co_cars.yy",
   },
   "parentObjectId":{
     "name":"obj_co_car_parent",

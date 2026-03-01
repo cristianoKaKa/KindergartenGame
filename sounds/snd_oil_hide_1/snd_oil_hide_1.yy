@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_oil_hide_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.9840136,
+  "exportDir":"",
+  "name":"snd_oil_hide_1",
+  "parent":{
+    "name":"oil_hide",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/oil_hide.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_oil_hide_1.mp3",
+  "volume":1.0,
+}

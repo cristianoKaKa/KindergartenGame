@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_china_petronium_icon_4",
   "bboxMode":0,
   "bbox_bottom":1229,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b471c514-a04e-4ab2-884a-78e68bfb38c3","name":"b471c514-a04e-4ab2-884a-78e68bfb38c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b471c514-a04e-4ab2-884a-78e68bfb38c3","name":"b471c514-a04e-4ab2-884a-78e68bfb38c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"china_petronium_icon",
-    "path":"folders/Sprites/zhongban/china_petronium_icon.yy",
+    "path":"folders/Sprites/zhongban/zhongban_chapter1/china_petronium_icon.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

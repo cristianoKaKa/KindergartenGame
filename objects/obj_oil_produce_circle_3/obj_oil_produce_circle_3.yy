@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"bg_objs",
-    "path":"folders/Objects/daban/oil_produce/bg_objs.yy",
+    "path":"folders/Objects/daban/daban_games/oil_produce/bg_objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

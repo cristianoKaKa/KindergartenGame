@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"drill_string",
-    "path":"folders/Objects/daban/drill_string.yy",
+    "path":"folders/Objects/daban/daban_games/drill_string.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_drill",

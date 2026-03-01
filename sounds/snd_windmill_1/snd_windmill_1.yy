@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_windmill_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.04,
+  "exportDir":"",
+  "name":"snd_windmill_1",
+  "parent":{
+    "name":"windmill",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter5/windmill.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_windmill_1.mp3",
+  "volume":1.0,
+}

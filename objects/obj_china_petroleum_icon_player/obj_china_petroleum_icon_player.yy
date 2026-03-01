@@ -3,6 +3,7 @@
   "%Name":"obj_china_petroleum_icon_player",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
@@ -10,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"china_petroleum_icon",
-    "path":"folders/Objects/zhongban/china_petroleum_icon.yy",
+    "path":"folders/Objects/zhongban/zhongban_chapter_1/china_petroleum_icon.yy",
   },
   "parentObjectId":null,
   "persistent":false,

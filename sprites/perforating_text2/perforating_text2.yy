@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"perforating_text2",
   "bboxMode":0,
   "bbox_bottom":159,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0b4f6bf7-8100-4fbe-8ae7-b53193f5c5ba","name":"0b4f6bf7-8100-4fbe-8ae7-b53193f5c5ba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0b4f6bf7-8100-4fbe-8ae7-b53193f5c5ba","name":"0b4f6bf7-8100-4fbe-8ae7-b53193f5c5ba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"perforating",
-    "path":"folders/Sprites/dabanzu/perforating.yy",
+    "path":"folders/Sprites/daban/dabanzu/perforating.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

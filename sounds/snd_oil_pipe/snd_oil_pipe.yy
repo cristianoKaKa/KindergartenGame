@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_oil_pipe",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":8.136009,
+  "exportDir":"",
+  "name":"snd_oil_pipe",
+  "parent":{
+    "name":"oil_pipe",
+    "path":"folders/Sounds/xiaoban/xiaoban_chapter2/oil_pipe.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_oil_pipe.mp3",
+  "volume":1.0,
+}

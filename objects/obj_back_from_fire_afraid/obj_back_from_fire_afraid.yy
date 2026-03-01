@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"dabanChapter3",
-    "path":"folders/Objects/icons/dabanChapter3.yy",
+    "path":"folders/Objects/icons/daban/dabanChapter3.yy",
   },
   "parentObjectId":null,
   "persistent":false,

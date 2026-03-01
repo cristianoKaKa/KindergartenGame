@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_haircut_tutorial",
   "bboxMode":0,
   "bbox_bottom":299,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","name":"c1f46bff-4615-4aa2-8295-9da8201cfeea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"tutorial",
-    "path":"folders/Sprites/dabanChapter3/haircut/tutorial.yy",
+    "path":"folders/Sprites/daban/dabanChapter3/haircut/tutorial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

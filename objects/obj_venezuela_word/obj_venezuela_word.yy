@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_od_words",
-    "path":"folders/Objects/dabanzu/oil_distribution/obj_od_words.yy",
+    "path":"folders/Objects/daban/dabanzu/oil_distribution/obj_od_words.yy",
   },
   "parentObjectId":null,
   "persistent":false,

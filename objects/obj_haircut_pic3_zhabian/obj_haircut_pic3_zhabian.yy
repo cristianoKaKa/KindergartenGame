@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"haircut",
-    "path":"folders/Objects/dabanChapter3/haircut.yy",
+    "path":"folders/Objects/daban/dabanChapter3/haircut.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_haircut",

@@ -7,11 +7,11 @@
   "managed":true,
   "name":"obj_button_lipstick",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"石油变口红",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"石油变口红",},
   ],
   "parent":{
     "name":"dabanChapter3",
-    "path":"folders/Objects/buttons/dabanChapter3.yy",
+    "path":"folders/Objects/buttons/daban/dabanChapter3.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

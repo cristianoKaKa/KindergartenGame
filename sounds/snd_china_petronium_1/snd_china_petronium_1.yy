@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_china_petronium_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.9280047,
+  "exportDir":"",
+  "name":"snd_china_petronium_1",
+  "parent":{
+    "name":"china_petronium",
+    "path":"folders/Sounds/zhongban/zhongban_chapter1/china_petronium.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_china_petronium_1.mp3",
+  "volume":1.0,
+}

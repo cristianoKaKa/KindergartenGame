@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"dabanChapter3",
-    "path":"folders/Objects/buttons/dabanChapter3.yy",
+    "path":"folders/Objects/buttons/daban/dabanChapter3.yy",
   },
   "parentObjectId":{
     "name":"obj_button_action_parent",

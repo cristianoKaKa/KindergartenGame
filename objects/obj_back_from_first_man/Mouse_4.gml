@@ -2,4 +2,4 @@
 // 你可以在此编辑器中写入代码 
 window_set_cursor(cr_default);
 instance_destroy(obj_first_man_player);
-room_goto(rm_daban);
+room_goto(rm_daban_games);

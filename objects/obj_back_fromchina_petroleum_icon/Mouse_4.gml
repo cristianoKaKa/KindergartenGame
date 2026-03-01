@@ -2,4 +2,4 @@
 // 你可以在此编辑器中写入代码 
 window_set_cursor(cr_default);
 instance_destroy(obj_china_petroleum_icon_player);
-room_goto(rm_zhongban);
+room_goto(rm_zhongban_chapter1);

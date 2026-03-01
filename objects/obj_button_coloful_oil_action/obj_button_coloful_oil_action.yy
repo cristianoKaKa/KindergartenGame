@@ -8,8 +8,8 @@
   "name":"obj_button_coloful_oil_action",
   "overriddenProperties":[],
   "parent":{
-    "name":"xiaoban",
-    "path":"folders/Objects/buttons/xiaoban.yy",
+    "name":"xiaoban_chapter1",
+    "path":"folders/Objects/buttons/xiaoban/xiaoban_chapter1.yy",
   },
   "parentObjectId":{
     "name":"obj_button_action_parent",

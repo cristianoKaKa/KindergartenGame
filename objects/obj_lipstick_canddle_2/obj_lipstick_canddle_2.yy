@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"lipstick",
-    "path":"folders/Objects/dabanChapter3/lipstick.yy",
+    "path":"folders/Objects/daban/dabanChapter3/lipstick.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_lipstick",

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"fire_afraid",
-    "path":"folders/Objects/dabanChapter3/fire_afraid.yy",
+    "path":"folders/Objects/daban/dabanChapter3/fire_afraid.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_fire_afraid",

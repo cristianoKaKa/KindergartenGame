@@ -8,8 +8,8 @@
   "name":"obj_button_oil_produce_action",
   "overriddenProperties":[],
   "parent":{
-    "name":"daban",
-    "path":"folders/Objects/buttons/daban.yy",
+    "name":"daban_games",
+    "path":"folders/Objects/buttons/daban/daban_games.yy",
   },
   "parentObjectId":{
     "name":"obj_button_action_parent",

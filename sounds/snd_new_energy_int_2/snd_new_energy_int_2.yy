@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_new_energy_int_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.952018,
+  "exportDir":"",
+  "name":"snd_new_energy_int_2",
+  "parent":{
+    "name":"new_energy_int",
+    "path":"folders/Sounds/daban/daban_chapter5/new_energy_int.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_new_energy_int_2.mp3",
+  "volume":1.0,
+}
