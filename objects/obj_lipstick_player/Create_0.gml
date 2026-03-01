@@ -1,23 +1,16 @@
-/// @description 在此处插入描述 
-// 你可以在此编辑器中写入代码 
-/*
-hat_wear = [false, false, false]
-jacket_wear = [false, false, false]
-pants_wear = [false, false, false]
-
-hat_x_pos = [112,433,784]
-hat_y_pos = [465,465,465]
-jacket_x_pos = [64,384,736]
-jacket_y_pos = [559,559,559]
-pants_x_pos = [115,435,786]
-pants_y_pos = [675,675,675]
-
-
-worker_1 = ["0","0","0"]
-worker_2 = ["0","0","0"]
-worker_3 = ["0","0","0"]
-*/
-show_debug_message("obj lipstick created!");
-audio_play_sound(snd_bg,0,true);
+/// @description 石油变口红游戏初始化
+show_debug_message("lipstick game initialized");
 
 drag_num = 0;
+global.in_box_cnt = 0;
+_succeed = false;
+
+// 可拖拽对象数量: bucket_2, fire, match_1, match_2,
+// lipstick_1, lipstick_2, canddle_1, canddle_2, stone_1~stone_8 = 14个
+obj_num = 14;
+
+// Box2网格排列计数器
+box2_next_slot = 0;
+
+// 创建教程弹窗
+instance_create_layer(0, 0, "Instances", obj_lipstick_tutorial);

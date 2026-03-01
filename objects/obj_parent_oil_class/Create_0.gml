@@ -1,13 +1,11 @@
-/// @description 在此处插入描述 
-// 你可以在此编辑器中写入代码 
+/// @description 初始化拖拽属性和分类
 grab = false;
-
 xx = 0;
 yy = 0;
-
-box_idx = 0;
-pos_idx = 0;
-
-origin_box_id = 0;
 origin_x = x;
 origin_y = y;
+placed = false;
+
+var _name = object_get_name(object_index);
+var _parts = string_split(_name, "_");
+category = _parts[3];
