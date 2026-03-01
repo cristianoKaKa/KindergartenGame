@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_life_energy_tutorial_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.512018,
+  "exportDir":"",
+  "name":"snd_life_energy_tutorial_1",
+  "parent":{
+    "name":"life_energy",
+    "path":"folders/Sounds/zhongban/zhongban_chapter5/life_energy.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_life_energy_tutorial_1.mp3",
+  "volume":1.0,
+}
