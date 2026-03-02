@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-room_goto(rm_game_haircut);
+room_goto(rm_cover_haircut);
 
 

@@ -11,8 +11,8 @@
   "name":"obj_parent_oil_class",
   "overriddenProperties":[],
   "parent":{
-    "name":"oil_classification",
-    "path":"folders/Objects/daban/dabanChapter3/oil_classification.yy",
+    "name":"oil_class",
+    "path":"folders/Objects/daban/dabanChapter3/oil_class.yy",
   },
   "parentObjectId":null,
   "persistent":false,

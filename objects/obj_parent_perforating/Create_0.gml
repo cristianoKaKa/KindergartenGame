@@ -1,13 +1,9 @@
-/// @description 在此处插入描述 
-// 你可以在此编辑器中写入代码 
+/// @description 初始化拖拽属性
 grab = false;
-
 xx = 0;
 yy = 0;
-
-box_idx = 0;
-pos_idx = 0;
-
-origin_box_id = 0;
+placed = false;
+target_x = 0;
+target_y = 0;
 origin_x = x;
 origin_y = y;

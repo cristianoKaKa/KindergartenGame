@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_fire_scare_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":8.256009,
+  "exportDir":"",
+  "name":"snd_fire_scare_2",
+  "parent":{
+    "name":"fire_scare",
+    "path":"folders/Sounds/daban/dabanzu/fire_scare.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_fire_scare_2.mp3",
+  "volume":1.0,
+}
