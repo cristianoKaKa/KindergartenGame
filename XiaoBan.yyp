@@ -271,7 +271,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.213",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"XiaoBan",
   "resources":[
@@ -1471,6 +1471,7 @@
     {"id":{"name":"spr_cover_oil_hide","path":"sprites/spr_cover_oil_hide/spr_cover_oil_hide.yy",},},
     {"id":{"name":"spr_cover_oil_pipe","path":"sprites/spr_cover_oil_pipe/spr_cover_oil_pipe.yy",},},
     {"id":{"name":"spr_cover_oil_produce","path":"sprites/spr_cover_oil_produce/spr_cover_oil_produce.yy",},},
+    {"id":{"name":"spr_cover_perforating","path":"sprites/spr_cover_perforating/spr_cover_perforating.yy",},},
     {"id":{"name":"spr_cover_pig_family","path":"sprites/spr_cover_pig_family/spr_cover_pig_family.yy",},},
     {"id":{"name":"spr_cover_secret_bucket","path":"sprites/spr_cover_secret_bucket/spr_cover_secret_bucket.yy",},},
     {"id":{"name":"spr_cover_shadow_pair","path":"sprites/spr_cover_shadow_pair/spr_cover_shadow_pair.yy",},},
@@ -1909,7 +1910,6 @@
     {"id":{"name":"Sprite198","path":"sprites/Sprite198/Sprite198.yy",},},
     {"id":{"name":"Sprite202","path":"sprites/Sprite202/Sprite202.yy",},},
     {"id":{"name":"Sprite204","path":"sprites/Sprite204/Sprite204.yy",},},
-    {"id":{"name":"Sprite205","path":"sprites/Sprite205/Sprite205.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
   ],
   "resourceType":"GMProject",
