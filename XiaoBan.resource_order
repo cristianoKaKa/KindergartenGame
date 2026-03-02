@@ -1049,6 +1049,7 @@
     {"name":"spr_cover_oil_family","order":2,"path":"sprites/spr_cover_oil_family/spr_cover_oil_family.yy",},
     {"name":"spr_cover_oil_hide","order":11,"path":"sprites/spr_cover_oil_hide/spr_cover_oil_hide.yy",},
     {"name":"spr_cover_oil_pipe","order":13,"path":"sprites/spr_cover_oil_pipe/spr_cover_oil_pipe.yy",},
+    {"name":"spr_cover_perforating","order":11,"path":"sprites/spr_cover_perforating/spr_cover_perforating.yy",},
     {"name":"spr_cover_pig_family","order":12,"path":"sprites/spr_cover_pig_family/spr_cover_pig_family.yy",},
     {"name":"spr_cover_secret_bucket","order":5,"path":"sprites/spr_cover_secret_bucket/spr_cover_secret_bucket.yy",},
     {"name":"spr_cover_shadow_pair","order":2,"path":"sprites/spr_cover_shadow_pair/spr_cover_shadow_pair.yy",},
@@ -1386,6 +1387,5 @@
     {"name":"Sprite198","order":8,"path":"sprites/Sprite198/Sprite198.yy",},
     {"name":"Sprite202","order":10,"path":"sprites/Sprite202/Sprite202.yy",},
     {"name":"Sprite204","order":5,"path":"sprites/Sprite204/Sprite204.yy",},
-    {"name":"Sprite205","order":7,"path":"sprites/Sprite205/Sprite205.yy",},
   ],
 }
